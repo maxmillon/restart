@@ -1,0 +1,92 @@
+header{
+  background-image:url("../images/beautiful-starry-sky.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  color:white;
+  padding-bottom:150px;
+
+}
+
+header{
+  width:100%;
+  margin:0 auto;
+  text-algin:center;
+
+}
+
+header div{
+  width:40%;
+  margin:0 auto;
+  text-align:center;
+}
+a{
+  color:#000;
+  text-decoration:none;
+}
+nav{
+  margin-bottom:150px;
+  font-size:30px;
+  text-decoration:none;
+
+}
+nav li{
+  display:inline;
+  float:right;
+}
+nav h1{
+  float:left;
+}
+
+
+.about{
+  padding:20px;
+}
+
+header h2{
+  font-size:350%;
+}
+
+header p{
+  font-size:130;
+}
+/*.clearfix::before,
+.clearfix::after{
+  display:block;
+  content:"";
+  clear:both;*/
+}
+
+.button{
+  padding:15px 30px;
+  border-radius:7.5px;
+  background-color:red;
+}
+/*MY HEADER*/
+
+/*MY MAIN*/
+.max{
+  width:80%;
+  height:50%;
+
+}
+main{
+  padding:20px;
+}
+
+section{
+  padding:100px;
+}
+
+#work{
+  text-align:center;
+  background-color:lightgray;
+  padding-bottom:;
+  
+}
+/*My MAIn ENDS HERE*/
+/*#review{*/
+  background-image: url('../images/fireworks21.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height:450px;
+}
